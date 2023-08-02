@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20406a48-6e50-4c08-b7b4-3194c6684bd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.burst@1.6.6/Editor/BurstAotCompiler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StartMenuButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Check.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Timer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spawn.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Game/Assets/Scripts/GameExit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StartButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/QuitButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TimerSlider.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Proverka.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/timmer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Slider.cs" />
+        <option value="$PROJECT_DIR$/Assets/TimerSlider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Check.cs" />
+        <option value="$PROJECT_DIR$/Assets/MouseEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/QuitButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/StartButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/StartMenuButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Timer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SBXLBbOQnEktU9acSf3djfvI44" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20406a48-6e50-4c08-b7b4-3194c6684bd7" name="Default Changelist" comment="" />
+      <created>1688620896230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688620896230</updated>
+      <workItem from="1688620910118" duration="8144000" />
+      <workItem from="1688635382027" duration="5526000" />
+      <workItem from="1688641323078" duration="111000" />
+      <workItem from="1688641508637" duration="910000" />
+      <workItem from="1690789735619" duration="847000" />
+      <workItem from="1690883531993" duration="8324000" />
+      <workItem from="1690953063168" duration="3379000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="796" y="258" key="RiderGenerateDialog" timestamp="1690954878162">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="796" y="258" key="RiderGenerateDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1690954878162" />
+    <state x="687" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1690885407914">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="247" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1690885407914" />
+  </component>
+</project>
